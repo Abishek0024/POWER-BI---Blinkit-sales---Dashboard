@@ -56,7 +56,7 @@ Columns include: Item Type, Fat Content, Outlet Size, Outlet Location, Outlet Ty
 ---
 
 ## 7. Dashboard Snapshot  
-![Dashboard Snapshot]
+![Dashboard Snapshot] https://github.com/Abishek0024/POWER-BI---Blinkit-sales---Dashboard/blob/main/Blinkit%20_project%20%20Screen%20short.png
 
 ---
 
